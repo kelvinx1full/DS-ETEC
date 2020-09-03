@@ -1,0 +1,45 @@
+/*!
+ * Start Bootstrap - Modern Business (https://startbootstrap.com/templates/modern-business)
+ * Copyright 2013-2020 Start Bootstrap
+ * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-logomodern-business-nav/blob/master/LICENSE)
+ */
+body {
+  padding-top: 56px;
+}
+
+.carousel-item {
+  height: 65vh;
+  min-height: 300px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.portfolio-item {
+  margin-bottom: 30px;
+}
+.busca input {
+  background-image: url(../imagens/busca.png);
+  background-repeat: no-repeat;
+  background-position: 96%;
+  height: 36px;
+  margin-top: 10px;
+  width: 190px;
+  border: 1px solid #d6d6d6;
+}
+
+.busca {
+    text-align: center;
+    width: 80%;
+    float: right;
+}
+.busca button {
+  text-align: center;
+  
+  
+}
+.pesquisa {
+  text-align: center;
+}
