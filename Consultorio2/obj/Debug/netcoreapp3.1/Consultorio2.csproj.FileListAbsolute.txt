@@ -1,0 +1,13 @@
+C:\Users\adm\source\repos\Consultorio2\Consultorio2\bin\Debug\netcoreapp3.1\Consultorio2.exe
+C:\Users\adm\source\repos\Consultorio2\Consultorio2\bin\Debug\netcoreapp3.1\Consultorio2.deps.json
+C:\Users\adm\source\repos\Consultorio2\Consultorio2\bin\Debug\netcoreapp3.1\Consultorio2.runtimeconfig.json
+C:\Users\adm\source\repos\Consultorio2\Consultorio2\bin\Debug\netcoreapp3.1\Consultorio2.runtimeconfig.dev.json
+C:\Users\adm\source\repos\Consultorio2\Consultorio2\bin\Debug\netcoreapp3.1\Consultorio2.dll
+C:\Users\adm\source\repos\Consultorio2\Consultorio2\bin\Debug\netcoreapp3.1\Consultorio2.pdb
+C:\Users\adm\source\repos\Consultorio2\Consultorio2\obj\Debug\netcoreapp3.1\Consultorio2.csprojAssemblyReference.cache
+C:\Users\adm\source\repos\Consultorio2\Consultorio2\obj\Debug\netcoreapp3.1\Consultorio2.AssemblyInfoInputs.cache
+C:\Users\adm\source\repos\Consultorio2\Consultorio2\obj\Debug\netcoreapp3.1\Consultorio2.AssemblyInfo.cs
+C:\Users\adm\source\repos\Consultorio2\Consultorio2\obj\Debug\netcoreapp3.1\Consultorio2.csproj.CoreCompileInputs.cache
+C:\Users\adm\source\repos\Consultorio2\Consultorio2\obj\Debug\netcoreapp3.1\Consultorio2.dll
+C:\Users\adm\source\repos\Consultorio2\Consultorio2\obj\Debug\netcoreapp3.1\Consultorio2.pdb
+C:\Users\adm\source\repos\Consultorio2\Consultorio2\obj\Debug\netcoreapp3.1\Consultorio2.genruntimeconfig.cache
